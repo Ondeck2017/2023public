@@ -20,7 +20,7 @@ p  {
   border: 5px outset red;
  
 .container {
-    background: #eee;
-    margin: 0;
-    width: 100%;
+    background: #eee !important;
+    margin: 0 !important;
+    width: 100% !important;
 }
