@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+p  {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+  .myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+ btn{
+  color: blue;
+  font-family: verdana;
+  font-size: 10%;
+  border: 5px outset red;
+ 
+.container {
+    background: #eee;
+    margin: 0;
+    width: 100%;
+}
