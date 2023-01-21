@@ -3,19 +3,19 @@ background-color: #e5e5f7;
 background-size: 11px 11px;
 background-image: repeating-linear-gradient(45deg, #eee 0, #eee 1.1px, #eee 0, #e5e5f7 50%);
 }
+.container {
+    background: #fff;
+    padding: 20px;
+}
 h1 {
-  color: blue;
-  font-family: verdana;
   font-size: 300%;
 }
 p  {
-  color: red;
-  font-family: courier;
   font-size: 160%;
 }
-  .myDiv {
-  border: 5px outset red;
-  background-color: lightblue;    
+.myDiv {
+  border: 1px solid #ccc;
+  background-color: #eee;    
   text-align: center;
 }
  
