@@ -19,3 +19,9 @@ p  {
     margin: 0 !important;
     width: 100% !important;
 }
+.nav a.btn {
+    padding: 1rem;
+    font-weight: bold !important;
+    border-top: 4px solid;
+    border-bottom: 4px solid;
+}
