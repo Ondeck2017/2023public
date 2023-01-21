@@ -1,8 +1,7 @@
 body {
 background-color: #e5e5f7;
-opacity: 0.1;
-background-size: 4px 4px;
-background-image: repeating-linear-gradient(45deg, #444cf7 0, #444cf7 0.4px, #e5e5f7 0, #e5e5f7 50%);
+background-size: 11px 11px;
+background-image: repeating-linear-gradient(45deg, #444cf7 0, #444cf7 1.1px, #e5e5f7 0, #e5e5f7 50%);
 }
 h1 {
   color: blue;
